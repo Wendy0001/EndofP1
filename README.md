@@ -10,11 +10,11 @@
 ### I will commence the analysis by examining the provided data sets encompassing industry players, industry recognition, strategic partnerships, and production budgets. My initial focus will be on ensuring the data's cleanliness, consistency, and suitability for analysis. Once prepared, I will proceed to calculate descriptive statistics for the pertinent variables and generate insightful visualizations based on the derived variables. Additionally, I will conduct extensive research on the benefits associated with industry recognition and the establishment of strategic partnerships. Incorporating this acquired knowledge, I will enrich my analysis and provide a comprehensive understanding of the advantages and impacts of industry recognition and strategic alliances. Furthermore, I will delve into the distribution of production budgets within the dataset, conducting a budget analysis. This will involve calculating summary statistics such as the mean, median, and standard deviation of the budgets and visualizing the budget distribution using histograms or box plots. Lastly, I will meticulously interpret the findings obtained through data exploration and analysis, extracting key insights and trends related to the performance of industry players, the benefits of industry recognition and strategic partnerships, as well as the distribution of production budgets. These insights will serve as the foundation for addressing the specific questions at hand and formulating actionable recommendations and strategies based on the available data.
 ## Source of Data 
 ### The data used in this project was retrieved from:
- https://www.themoviedb.org/
- https://www.boxofficemojo.com/
- https://www.imdb.com/
- https://www.rottentomatoes.com/
- https://www.the-numbers.com/
+ ###1) https://www.themoviedb.org/
+ ###2) https://www.boxofficemojo.com/
+ ###3) https://www.imdb.com/
+ ###4) https://www.rottentomatoes.com/
+ ###5) https://www.the-numbers.com/
  ## Description of Data
  ### i) movie_gross.csv. This file provides valuable insights and information to improve original video content. By analyzing the movie gross file, I can identify movies that have achieved significant box office success depending on production budgets. This information helps us understand the revenue potential of original video content and identify strategies to maximize returns on investments.
 ### ii)movie_budgets.csv. The movie budget file contains data on the production budgets of different movies. By analyzing this data, I am able to gain insights into how budgets are allocated across various components of the production process, such as script development, talent acquisition, production design, visual effects, marketing, and distribution. This information can help us understand the relevance of industry recognition and strategic partnerships.
