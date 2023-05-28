@@ -20,12 +20,12 @@ The data used in this project was retrieved from:
 ii)movie_budgets.csv. The movie budget file contains data on the production budgets of different movies. By analyzing this data, I am able to gain insights into how budgets are allocated across various components of the production process, such as script development, talent acquisition, production design, visual effects, marketing, and distribution. This information can help us understand the relevance of industry recognition and strategic partnerships.
 ## Extract Transform Load 
 I did a summary run down on my data using the following steps;
-a) I integrated my dataframes using the concatenation method.
-b) I displayed the shape and type of my dataframe.
-c) I dropped columns in this step.
-d) I then went ahead and checked for duplicates.
-e) I used the keep=False to keep all duplicates and sort_values to put duplicates next to each other.
-f) Finally, I removed my duplicates.
+ a) I integrated my dataframes using the concatenation method.
+ b) I displayed the shape and type of my dataframe.
+ c) I dropped columns in this step.
+ d) I then went ahead and checked for duplicates.
+ e) I used the keep=False to keep all duplicates and sort_values to put duplicates next to each other.
+ f) Finally, I removed my duplicates.
 ## Data Preparation
 The initial step is to ensure the cleanliness, consistency, and analysis readiness of the data. This involves addressing any inconsistencies in data, missing values, misspelled text data, outliers, imbalanced data, and invalid data. Furthermore, I will thoroughly examine the data for any inconsistencies or discrepancies, resolving them through appropriate data transformation or cleaning methods. If required, I will also consider converting data types to their appropriate formats for accurate analysis. Additionally, I will create new variables that can provide further insights and enhance my analytical capabilities.
 ## Data Analysis and Visualization
