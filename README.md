@@ -18,7 +18,24 @@ The data used in this project was retrieved from:
  ## Description of Data
  i) movie_gross.csv. This file provides valuable insights and information to improve original video content. By analyzing the movie gross file, I can identify movies that have achieved significant box office success depending on production budgets. This information helps us understand the revenue potential of original video content and identify strategies to maximize returns on investments.
 ii)movie_budgets.csv. The movie budget file contains data on the production budgets of different movies. By analyzing this data, I am able to gain insights into how budgets are allocated across various components of the production process, such as script development, talent acquisition, production design, visual effects, marketing, and distribution. This information can help us understand the relevance of industry recognition and strategic partnerships.
-## Visualizations 
+## Extract Transform Load 
+I did a summary run down on my data using the following steps;
+a) I integrated my dataframes using the concatenation method.
+b) I displayed the shape and type of my dataframe.
+c) I dropped columns in this step.
+d) I then went ahead and checked for duplicates.
+e) I used the keep=False to keep all duplicates and sort_values to put duplicates next to each other.
+f) Finally, I removed my duplicates.
+## Data Preparation
+The initial step is to ensure the cleanliness, consistency, and analysis readiness of the data. This involves addressing any inconsistencies in data, missing values, misspelled text data, outliers, imbalanced data, and invalid data. Furthermore, I will thoroughly examine the data for any inconsistencies or discrepancies, resolving them through appropriate data transformation or cleaning methods. If required, I will also consider converting data types to their appropriate formats for accurate analysis. Additionally, I will create new variables that can provide further insights and enhance my analytical capabilities.
+## Data Analysis and Visualization
+1) Financial Feasibility: Based on my analysis, I discovered a positive correlation between the production budget of a movie and its resulting profits. The data suggests that investing more in the production budget tends to yield better financial outcomes. 
+![for readme, visualizations](https://github.com/Wendy0001/EndofP1/assets/132939772/c2580d84-bdd5-46ad-8b47-dc7e69fd46ea)
+2) Production Infrastructure: A robust production infrastructure allows studios to handle large-scale productions with complex logistical requirements. It enables the management of multiple film projects simultaneously, facilitates the coordination of large production crews, and accommodates extensive post-production activities. The ability to handle ambitious projects expands the creative possibilities for studios and positions them to take on diverse and ambitious film ventures. The top 5 studios in the world right now are IFC, Uni, WB, Fox, Magn and we can infer that these studios are successful because of their infrastructural capacity and marketing and distribution channels. To go a step further I was able to illustrate that Fox studio had the highest figure in movies produced.
+![for readme, visualizations2](https://github.com/Wendy0001/EndofP1/assets/132939772/7842589c-a103-4a27-b088-1c14609fdbd6)
+3) Industry Recognition and Partnerships: In the data analysis subsection of the project, I investigate the advantages of strategic partnerships between renowned studios in the movie industry and other established and previously successful individuals. Specifically, I focus on examining the top 10 highest budgeted movies and highlight how these films benefited from strategic collaborations with industry-recognized producers, writers, actors, directors, and other creative professionals. By analyzing these examples, I aim to shed light on the positive outcomes and potential value generated through such strategic partnerships and high investment on the production budget.
+![for readme, visualizations3](https://github.com/Wendy0001/EndofP1/assets/132939772/8458fb42-e922-4e84-9634-13bf6884f1b4)
+
 
 ## Conclusion
 In summary, my project encompasses a thorough industry market analysis, competition assessment, risk mitigation, value proposition development, and financial analysis. This holistic approach will enable Microsoft to make informed decisions, navigate the challenges of the original video creation space, and capitalize on the vast opportunities that lie ahead.
