@@ -19,7 +19,7 @@ The data used in this project was retrieved from:
  i) movie_gross.csv. This file provides valuable insights and information to improve original video content. By analyzing the movie gross file, I can identify movies that have achieved significant box office success depending on production budgets. This information helps us understand the revenue potential of original video content and identify strategies to maximize returns on investments.
 ii)movie_budgets.csv. The movie budget file contains data on the production budgets of different movies. By analyzing this data, I am able to gain insights into how budgets are allocated across various components of the production process, such as script development, talent acquisition, production design, visual effects, marketing, and distribution. This information can help us understand the relevance of industry recognition and strategic partnerships.
 ## Extract Transform Load 
-I did a summary run down on my data using the following steps;
+I did a summary run down on my data using the following steps;                                                                                                     
  a) I integrated my dataframes using the concatenation method.                                                                                                     
  b) I displayed the shape and type of my dataframe.                                                                                                               
  c) I dropped columns in this step.                                                                                                                               
